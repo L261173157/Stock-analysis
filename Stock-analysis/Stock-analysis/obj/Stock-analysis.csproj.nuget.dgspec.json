@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj": {}
+    "d:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj": {
+    "d:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj",
+        "projectUniqueName": "d:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj",
         "projectName": "Stock-analysis",
-        "projectPath": "D:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj",
+        "projectPath": "d:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\Stock-analysis.csproj",
         "packagesPath": "D:\\Learn\\.nuget\\packages",
-        "outputPath": "D:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\obj\\",
+        "outputPath": "d:\\Learn\\Stock-analysis\\Stock-analysis\\Stock-analysis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\linxin\\AppData\\Roaming\\NuGet\\NuGet.Config"
